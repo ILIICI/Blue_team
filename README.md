@@ -14,12 +14,12 @@ https://github.com/ILIICI/Blue_team.git
 
 3 step: Edit .env file
 Add your database credentials like in the example below
-DB_CONNECTION=mysql
-DB_HOST=127.0.0.1
-DB_PORT=3306
-DB_DATABASE=laravel
-DB_USERNAME=root
-DB_PASSWORD=
++ DB_CONNECTION=mysql
++ DB_HOST=127.0.0.1
++ DB_PORT=3306
++ DB_DATABASE=laravel
++ DB_USERNAME=root
++ DB_PASSWORD=
 
 4 CLI commands.
 
